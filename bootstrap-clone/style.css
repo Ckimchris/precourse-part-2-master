@@ -1,0 +1,98 @@
+body {
+    background-color: white;
+}
+
+.navbar{
+    background-color: #563d7c;
+}
+
+.half-rule{
+    width: 6rem;
+    margin: 2.5rem 0;
+}
+
+hr{
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+.btn-secondary {
+    background-color: white;
+    padding: .8rem 2rem;
+    line-height: 1.5;
+}
+
+.btn-purple{
+    border-color: purple;
+    color: purple;
+}
+
+.btn-grey{
+    border-color: grey;
+    color: grey;
+}
+
+.btn-blue{
+    border-color: blue;
+    color: blue;
+}
+
+.btn-gold{
+    border-color: gold;
+    color: gold;
+    background-color: #563d7c;
+}
+
+.btn-purple.focus, .btn-purple:focus, .btn-purple:hover {
+    color: white;
+    text-decoration: none;
+    background-color: purple;
+}
+
+.btn-grey.focus, .btn-grey:focus, .btn-grey:hover {
+    color: white;
+    text-decoration: none;
+    background-color: grey;
+}
+
+.btn-blue.focus, .btn-blue:focus, .btn-blue:hover {
+    color: white;
+    text-decoration: none;
+    background-color: blue;
+}
+
+.btn-gold.focus, .btn-gold:focus, .btn-gold:hover {
+    color: #563d7c;
+    text-decoration: none;
+    background-color: gold;
+}
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background-color: #563d7c;
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+    color: white;
+}
+
+div.scrollmenu {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.glyphicon{
+    font-size: 25px;
+    color: blue;
+}
+

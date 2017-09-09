@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+
+.glyphicon, .glyphicon-th{
+    background-color: light-gray; 
+    padding: 15px;
+}
+
+.btn, .btn-default, .navbar-btn{
+    background-color: white; 
+    border-color: white;
+}
+
+.blue{
+    background-color: blue;
+    color: white;
+}
+
+.google{
+    margin-top: 125px;
+}
+
+.search{
+    margin-left: 50px;
+}
+
+.title{
+    font: fortuna; font-size: 72px;
+}
+
+.form-control{
+    width: 50%; margin-left: 280px;
+}
+
+.google-pad{
+    margin-bottom: 50px;
+}
